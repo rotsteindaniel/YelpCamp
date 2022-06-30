@@ -4,6 +4,8 @@ YelpCamp is a responsive online platform which its users can add, comment and ra
 
 ![App Preview](./public/Home.jpg)
 
+<img src="./public/Home.jpg" width="800" height="500">
+
 ## [Live Access](https://immense-refuge-26135.herokuapp.com/)
 
 ### PT-BR:
