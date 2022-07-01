@@ -2,9 +2,9 @@
 
 YelpCamp is a responsive online platform which its users can add, comment and rate Campgrounds. The Campgrounds are pinned in MapBox's API Map automatically when created.
 
-![App Preview] <img src="./public/Home.JPG" alt="home-page">
+<img src="./public/Home.JPG" alt="home-page">
 
-## [Live Access](https://immense-refuge-26135.herokuapp.com/)
+## [Live Access] Acesse aqui: (https://immense-refuge-26135.herokuapp.com/)
 
 ### PT-BR:
 
